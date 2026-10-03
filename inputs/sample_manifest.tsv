@@ -1,0 +1,13 @@
+sample	host	comparison	group	provider_file_code	read1	read2	uniquely_mapped_read_pairs
+C600-1	C600	C600_vs_CD19C	recipient	0001	Unknown_DC115-001X0001_good_1.fq.gz	Unknown_DC115-001X0001_good_2.fq.gz	7894983
+C600-2	C600	C600_vs_CD19C	recipient	0002	Unknown_DC115-001X0002_good_1.fq.gz	Unknown_DC115-001X0002_good_2.fq.gz	6660134
+C600-3	C600	C600_vs_CD19C	recipient	0003	Unknown_DC115-001X0003_good_1.fq.gz	Unknown_DC115-001X0003_good_2.fq.gz	7245229
+CD19C-1	C600	C600_vs_CD19C	transconjugant	0004	Unknown_DC115-001X0004_good_1.fq.gz	Unknown_DC115-001X0004_good_2.fq.gz	6185526
+CD19C-2	C600	C600_vs_CD19C	transconjugant	0005	Unknown_DC115-001X0005_good_1.fq.gz	Unknown_DC115-001X0005_good_2.fq.gz	6480799
+CD19C-3	C600	C600_vs_CD19C	transconjugant	0006	Unknown_DC115-001X0006_good_1.fq.gz	Unknown_DC115-001X0006_good_2.fq.gz	6131041
+TH2-1	TH2	TH2_vs_TH2C	recipient	0010	Unknown_DC115-001X0010_good_1.fq.gz	Unknown_DC115-001X0010_good_2.fq.gz	5468658
+TH2-2	TH2	TH2_vs_TH2C	recipient	0011	Unknown_DC115-001X0011_good_1.fq.gz	Unknown_DC115-001X0011_good_2.fq.gz	5868102
+TH2-3	TH2	TH2_vs_TH2C	recipient	0012	Unknown_DC115-001X0012_good_1.fq.gz	Unknown_DC115-001X0012_good_2.fq.gz	6909115
+TH2C-1	TH2	TH2_vs_TH2C	transconjugant	0007	Unknown_DC115-001X0007_good_1.fq.gz	Unknown_DC115-001X0007_good_2.fq.gz	7070590
+TH2C-2	TH2	TH2_vs_TH2C	transconjugant	0008	Unknown_DC115-001X0008_good_1.fq.gz	Unknown_DC115-001X0008_good_2.fq.gz	5872023
+TH2C-3	TH2	TH2_vs_TH2C	transconjugant	0009	Unknown_DC115-001X0009_good_1.fq.gz	Unknown_DC115-001X0009_good_2.fq.gz	6167634

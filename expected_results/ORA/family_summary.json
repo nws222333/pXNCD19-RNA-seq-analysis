@@ -1,0 +1,66 @@
+[
+  {
+    "comparison": "C600_vs_CD19C",
+    "family": "BP",
+    "background_genes": 1880,
+    "foreground_genes": 155,
+    "BH_family_terms": 1112,
+    "terms_FDR_lt_0_05": 0
+  },
+  {
+    "comparison": "C600_vs_CD19C",
+    "family": "MF",
+    "background_genes": 2534,
+    "foreground_genes": 223,
+    "BH_family_terms": 1196,
+    "terms_FDR_lt_0_05": 0
+  },
+  {
+    "comparison": "C600_vs_CD19C",
+    "family": "CC",
+    "background_genes": 1687,
+    "foreground_genes": 149,
+    "BH_family_terms": 105,
+    "terms_FDR_lt_0_05": 0
+  },
+  {
+    "comparison": "C600_vs_CD19C",
+    "family": "KEGG",
+    "background_genes": 827,
+    "foreground_genes": 83,
+    "BH_family_terms": 121,
+    "terms_FDR_lt_0_05": 0
+  },
+  {
+    "comparison": "TH2_vs_TH2C",
+    "family": "BP",
+    "background_genes": 2122,
+    "foreground_genes": 67,
+    "BH_family_terms": 1170,
+    "terms_FDR_lt_0_05": 2
+  },
+  {
+    "comparison": "TH2_vs_TH2C",
+    "family": "MF",
+    "background_genes": 2783,
+    "foreground_genes": 75,
+    "BH_family_terms": 1296,
+    "terms_FDR_lt_0_05": 2
+  },
+  {
+    "comparison": "TH2_vs_TH2C",
+    "family": "CC",
+    "background_genes": 1844,
+    "foreground_genes": 37,
+    "BH_family_terms": 117,
+    "terms_FDR_lt_0_05": 1
+  },
+  {
+    "comparison": "TH2_vs_TH2C",
+    "family": "KEGG",
+    "background_genes": 908,
+    "foreground_genes": 18,
+    "BH_family_terms": 122,
+    "terms_FDR_lt_0_05": 0
+  }
+]

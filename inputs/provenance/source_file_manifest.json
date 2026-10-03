@@ -1,0 +1,86 @@
+[
+  {
+    "source_category": "annotation_sources",
+    "filename": "kegg_eco_list.tsv",
+    "bytes": 359352,
+    "sha256": "1cb092083f4d2066e28df97419bd7d03b0d04bfa04c6b2b8b404596c2b2b77a5",
+    "filesystem_modified_time": "2026-09-29T18:19:40.565193"
+  },
+  {
+    "source_category": "annotation_sources",
+    "filename": "kegg_eco_pathway_links.tsv",
+    "bytes": 119760,
+    "sha256": "9761ba05df57c5ceac52cf556b82c48f21b5391ae778e8ee0cf567a6594e3184",
+    "filesystem_modified_time": "2026-09-29T18:19:48.849103"
+  },
+  {
+    "source_category": "annotation_sources",
+    "filename": "kegg_eco_pathway_names.tsv",
+    "bytes": 9366,
+    "sha256": "223937ce293be2567a69fd9a644deb29d8bb8dac4243cc370ea72a02c243ab17",
+    "filesystem_modified_time": "2026-09-29T18:19:55.620167"
+  },
+  {
+    "source_category": "reference_sources",
+    "filename": "C600_BMK_All_Gene.fa",
+    "bytes": 4248378,
+    "sha256": "c2093ee723f616c5302d276f7ecd167e14c9781c60bc7602e2290fa72b863593",
+    "filesystem_modified_time": "2026-09-29T17:51:04.763702"
+  },
+  {
+    "source_category": "reference_sources",
+    "filename": "C600_BMK_to_composite_reference_exact_sequence_map.tsv",
+    "bytes": 220811,
+    "sha256": "c229a1540a1de454887712e46f39f2d64a04401ef81801a1973d6dc9a241a237",
+    "filesystem_modified_time": "2026-09-29T17:51:04.856274"
+  },
+  {
+    "source_category": "reference_sources",
+    "filename": "GCF_003367885.1_ASM336788v1_assembly_report.txt",
+    "bytes": 1318,
+    "sha256": "f3372f4dbe7f1c7608695e108ad427292efac7704cacd310f28d5dd7a542d61a",
+    "filesystem_modified_time": "2026-09-29T17:43:56.088253"
+  },
+  {
+    "source_category": "reference_sources",
+    "filename": "GCF_003367885.1_ASM336788v1_genomic.fna",
+    "bytes": 4657394,
+    "sha256": "5a215fcd088cfbaa315ca0238193a26bdc192abe93e0f3822c8d898f62a2d580",
+    "filesystem_modified_time": "2026-09-29T17:44:06.405974"
+  },
+  {
+    "source_category": "reference_sources",
+    "filename": "GCF_003367885.1_ASM336788v1_genomic.fna.gz",
+    "bytes": 1367705,
+    "sha256": "4eebbee4d6dcc540b976c6b8da63e78a4f468937c86713b1313d53ad3afb7ca2",
+    "filesystem_modified_time": "2026-09-29T17:44:06.390663"
+  },
+  {
+    "source_category": "reference_sources",
+    "filename": "GCF_003367885.1_ASM336788v1_genomic.gff",
+    "bytes": 2789636,
+    "sha256": "30e90106312609db8a0bafd83bc14b7aeaa8690788fd2f7dc5c2292b6589b153",
+    "filesystem_modified_time": "2026-09-29T17:44:14.647929"
+  },
+  {
+    "source_category": "reference_sources",
+    "filename": "GCF_003367885.1_ASM336788v1_genomic.gff.gz",
+    "bytes": 433805,
+    "sha256": "fba8364c27a5044f192958582ed07984671b298c00b8d7f472fa394b5e9ce855",
+    "filesystem_modified_time": "2026-09-29T17:44:14.639924"
+  },
+  {
+    "source_category": "reference_sources",
+    "filename": "TH2_BMK_All_Gene.fa",
+    "bytes": 4618893,
+    "sha256": "053124dd60bccfdf0ebd31f151d7d3691b39b9d59c3808b85fcc9a19eb7697e0",
+    "filesystem_modified_time": "2026-09-29T17:51:04.748209"
+  },
+  {
+    "source_category": "reference_sources",
+    "filename": "TH2_BMK_to_composite_reference_exact_sequence_map.tsv",
+    "bytes": 278632,
+    "sha256": "7f1eeeff2761f4eb6c8548d37e699f63c7e309a712e1d55c009989de86d34afc",
+    "filesystem_modified_time": "2026-09-29T17:51:04.946272"
+  }
+]
